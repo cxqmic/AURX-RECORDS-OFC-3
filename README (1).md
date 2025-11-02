@@ -26,8 +26,7 @@ This repository may include: - Project files\
 - Production tools or open resources
 
 ## 📜 License
-
-Specify a license here (e.g., MIT, CC BY-SA, custom license).
+AURX RECORDS OFC 
 
 ------------------------------------------------------------------------
 
