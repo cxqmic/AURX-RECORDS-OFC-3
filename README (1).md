@@ -1,6 +1,6 @@
 # AURX RECORDS OFC
 
-Welcome to the official GitHub repository for **AURX RECORDS OFC** ---
+Welcome to the official website for **AURX RECORDS OFC** ---
 an independent record label focused on delivering innovative sound, bold
 artistic vision, and high-quality music production.
 
@@ -16,17 +16,6 @@ For business inquiries, demos, collaborations, or licensing requests:
 **Email:** aurxrecordsofc@outlook.com.br\
 **TikTok:** https://tiktok.com/@aurx.records.ofc\
 **WhatsApp:** +1 305 297 1938
-
-## 📁 Repository Purpose
-
-This repository may include: - Project files\
-- Cover art & branding assets\
-- Press kits\
-- Metadata templates\
-- Production tools or open resources
-
-## 📜 License
-AURX RECORDS OFC 
 
 ------------------------------------------------------------------------
 
